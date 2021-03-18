@@ -2,7 +2,7 @@ using System;
 
 namespace Dossier.Api
 {
-    // todo: remove
+    
     public class WeatherForecast
     {
         public DateTime Date { get; set; }
